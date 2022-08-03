@@ -1,0 +1,99 @@
+﻿  OpenCVApplication.cpp
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(114,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(185,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(249,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(428,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(380,56): warning C4101: 'j': unreferenced local variable
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(380,53): warning C4101: 'i': unreferenced local variable
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(887,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1112,36): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1113,36): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1114,36): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1659,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1634,18): warning C4101: 'gmin': unreferenced local variable
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1634,24): warning C4101: 'gmax': unreferenced local variable
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1675,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1692,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1693,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1714,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1715,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(1740,19): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2003,8): warning C4101: 'coef': unreferenced local variable
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2215,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2255,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2268,30): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2279,29): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2314,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2346,66): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2434,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2505,30): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2506,30): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(2507,30): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+  OpenCVApplication.vcxproj -> D:\Facultate\PI\Laborator\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication-VS2019_OCV3411_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg3411_64.dll
+  OpenCV\dll\Debug\opencv_world3411d.dll
+          2 file(s) copied.
